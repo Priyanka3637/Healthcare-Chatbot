@@ -1,0 +1,1 @@
+An Android project that basically aims to streamline the process of accessing medical advice and scheduling appointments, thereby enhancing the overall efficiency and effectiveness of healthcare delivery through virtual assistance.
